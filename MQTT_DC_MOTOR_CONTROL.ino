@@ -2,7 +2,7 @@
 #include "Adafruit_MQTT.h"
 #include "Adafruit_MQTT_Client.h"
 #define WLAN_SSID       "TurkTelekom_T3FC9"
-#define WLAN_PASS       "wTMDauX3"
+#define WLAN_PASS       "*********"
 #define AIO_SERVER      "io.adafruit.com"
 #define AIO_SERVERPORT  1883                   
 #define AIO_USERNAME  "bb123"
