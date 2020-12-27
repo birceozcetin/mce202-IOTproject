@@ -12,7 +12,7 @@ float Temperature;
 float Humidity;
 void send_event(const char *event);
 char *ssid = "TurkTelekom_T3FC9";
-const char* password = "wTMDauX3";
+const char* password = "*******";
 const char *host = "maker.ifttt.com";
 const char *privateKey = "bv_hjmTaYrbKeFlQ1HUDd4U27ZT7BAaz6RcJAp0o_5P";
 WiFiServer server(80);
